@@ -1,0 +1,13 @@
+body {
+	background-image: url("http://www.26pm.com/wp-content/uploads/2010/12/Josiah-Munsey-26PM-iPhone-game-WIP-Monkey_Forest.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-color: #cccccc;
+    text-align: center;
+    height: 100%;
+ }
+#scoreBoard { 
+	background-color: white;
+	margin: 2em 35em;
+}
